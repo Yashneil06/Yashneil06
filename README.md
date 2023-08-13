@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Yashneil Ghoolet</h1>
 <h3 align="center">A passionate 3rd-year BCOM Information Technology & System Student at Curtin Mauritius</h3>
-<img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c8626937d147ba7805f0989930848b2065807daae2202356d7201a9246c30b51/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashneil06&label=Profile%20views&color=0e75b6&style=flat" alt="yashneil06" /> </p>
